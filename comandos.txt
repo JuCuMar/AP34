@@ -1,1 +1,2 @@
 head / tail/ sort / sed 
+1- $ grep -i -o 'quijote' el_quijote.txt | nl
