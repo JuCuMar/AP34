@@ -5,3 +5,4 @@ head / tail/ sort / sed
 4- git grep -i -o -c 'quijote'
 5- sed -i 's/\<panza\>/barriga/g' el_quijote.txt
 6- sed 's/panza/barriga/gi ' el_quijote.txt
+7- $ head -c 4 el_quijote.txt
